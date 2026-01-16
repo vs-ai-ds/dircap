@@ -1,5 +1,9 @@
 # dircap
 
+![CI](https://github.com/<USER>/<REPO>/actions/workflows/ci.yml/badge.svg)
+![PyPI](https://img.shields.io/pypi/v/dircap)
+![Python](https://img.shields.io/pypi/pyversions/dircap)
+
 Set folder size caps and get warned when you exceed them.  
 Works on **Windows / macOS / Linux**.
 
